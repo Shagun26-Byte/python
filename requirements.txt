@@ -1,7 +1,2 @@
-@client.event
-async def on_ready():
-	print("Bot is ready")
-
-@client.command()
-async def hi(ctx):
-	await ctx.send("toh kese ho aap")
+dsicord.py
+asyncio
